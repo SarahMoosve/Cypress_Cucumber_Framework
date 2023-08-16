@@ -8,8 +8,8 @@ This repository contains E2E tests for an e-commerce website using Cypress with 
 
 - Page Object Model: All locators are defined in the support>pageObject folder:
 
-    - `HomePage.js` - Contains locators and methods for the PageName1 page.
-    - `ShopPage.js` - Contains locators and methods for the PageName2 page.
+    - `HomePage.js` - Contains locators and methods for the `HomeStepDef.js` page.
+    - `ShopPage.js` - Contains locators and methods for the `ShoppingStepDef.js` page.
 
 ## Setup & Installation
 1. Clone the Repository:
